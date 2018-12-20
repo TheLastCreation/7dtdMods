@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="multiPassangers" />
+        <Description value="This modlet adds a 2nd passanger to the Bicyle and Motorcycle and 4 new passangers to the 4x4" />
+        <Author value="Xela/TheCreation" />
+        <Version value="1" />
+    </ModInfo>
+</xml>
